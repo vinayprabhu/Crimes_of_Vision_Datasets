@@ -1,6 +1,7 @@
 # Crimes_of_Tiny_Images
 JFC! What a hot mess. *Scream into void*
-So much offsensive imgery!
+
+Examples of offensive imagery in the datatset
 
 ![Exhibit-A](/img/unethical_1.png)
 ![Exhibit-B](/img/unethical_2.png)

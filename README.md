@@ -2,7 +2,7 @@
 - No! Models *amplifying biases* is not hand-wavy
 Here are some examples!
 
-# 1: Crimes_of_Tiny_Images
+# 2: Crimes_of_Tiny_Images
 JFC! What a hot mess. *Scream into void*
 
 Examples of offensive imagery in the datatset

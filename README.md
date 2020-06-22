@@ -1,4 +1,8 @@
-# Crimes_of_Tiny_Images
+# 1: CelebA-HQ and Glow
+- No! Models *amplifying biases* is not hand-wavy
+Here are some examples!
+
+# 1: Crimes_of_Tiny_Images
 JFC! What a hot mess. *Scream into void*
 
 Examples of offensive imagery in the datatset
@@ -7,3 +11,4 @@ Examples of offensive imagery in the datatset
 ![Exhibit-B](/img/unethical_2.png)
 ![Exhibit-C](/img/unethical_3.png)
 ![Exhibit-D](/img/unethical_4.png)
+

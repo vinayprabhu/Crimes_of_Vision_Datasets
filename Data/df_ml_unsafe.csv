@@ -1,0 +1,316 @@
+category_index,category_id,index_of_parent_category,category name
+8493,n09622049,5177,"juvenile, juvenile person"
+8494,n09971273,5177,countrywoman
+8496,n09621232,5177,native
+8498,n09620794,5177,"native, indigen, indigene, aborigine, aboriginal"
+8499,n09727440,5177,Filipino
+8500,n09624168,5177,"male, male person"
+8505,n09610405,5177,"commoner, common man, common person"
+8507,n10355449,5177,"newcomer, fledgling, fledgeling, starter, neophyte, freshman, newbie, entrant"
+8510,n10384496,5177,orphan
+8511,n09637339,5177,Black woman
+8513,n09836160,5177,"bullfighter, toreador"
+8514,n10274815,5177,"lowerclassman, underclassman"
+8518,n09606527,5177,"anomaly, unusual person"
+8519,n09767197,5177,"actor, doer, worker"
+8520,n10709529,5177,thrower
+8522,n09918554,5177,"child, baby"
+8523,n10588074,5177,sheep
+8526,n10120330,5177,"garbage man, garbageman, garbage collector, garbage carter, garbage hauler, refuse collector, dustman"
+8527,n09616922,5177,entertainer
+8530,n09796809,5177,anti
+8532,n10635788,5177,sphinx
+8535,n09676884,5177,Slav
+8536,n09638875,5177,"White, White person, Caucasian"
+8540,n10522759,5177,"rescuer, recoverer, saver"
+8541,n10247880,5177,Latin
+8544,n10024362,5177,"domestic partner, significant other, spousal equivalent, spouse equivalent"
+8549,n09871867,5177,boy scout
+8556,n10289039,5177,man
+8559,n10042845,5177,"eccentric, eccentric person, flake, oddball, geek"
+8560,n09831962,5177,bad person
+8561,n10726031,5177,"transvestite, cross-dresser"
+8562,n09923673,5177,citizen
+8565,n10401331,5177,parrot
+8569,n09906449,5177,chameleon
+8571,n10439373,5177,"platinum blond, platinum blonde"
+8574,n10451450,5177,politician
+8577,n10633450,5177,"spectator, witness, viewer, watcher, looker"
+8578,n10530959,5177,"right-hander, right hander, righthander"
+8581,n10431625,5177,"picker, chooser, selector"
+8582,n09619168,5177,"female, female person"
+8584,n09636339,5177,"Black, Black person, blackamoor, Negro, Negroid"
+8586,n09845401,5177,beard
+8587,n10513823,5177,"redhead, redheader, red-header, carrottop"
+8595,n09874725,8591,bride
+8598,n10728624,8592,tribesman
+8602,n10376523,8492,"oldster, old person, senior citizen, golden ager"
+8603,n09903153,8600,"celebrity, famous person"
+8604,n10748620,8600,"very important person, VIP, high-up, dignitary, panjandrum, high muckamuck"
+8605,n10581890,8601,"serjeant-at-law, serjeant, sergeant-at-law, sergeant"
+8615,n10477713,8611,"probationer, student nurse"
+8623,n09917593,8493,"child, kid, youngster, minor, shaver, nipper, small fry, tiddler, tike, tyke, fry, nestling"
+8624,n09833441,8623,bairn
+8625,n10384392,8623,orphan
+8633,n10093818,8629,"fishmonger, fishwife"
+8638,n10333439,8500,"mother's boy, mamma's boy, mama's boy"
+8639,n10624074,8500,"son, boy"
+8641,n09871229,8637,"cub, lad, laddie, sonny, sonny boy"
+8642,n10078719,8637,farm boy
+8643,n09843443,8637,bat boy
+8644,n10173771,8640,Herr
+8645,n10192839,8640,hunk
+8646,n10419785,8640,Peter Pan
+8647,n10406266,8640,patriarch
+8648,n10288964,8640,adonis
+8650,n10665587,8640,"stud, he-man, macho-man"
+8652,n10406765,8640,"patriarch, paterfamilias"
+8660,n10175248,8655,high priest
+8674,n10101634,8667,"football player, footballer"
+8695,n10157128,8693,halfback
+8705,n10321340,8691,"minor leaguer, bush leaguer"
+8711,n10098710,8668,"foe, enemy"
+8712,n09836519,8513,matador
+8714,n09836343,8513,banderillero
+8716,n10300154,8516,mate
+8723,n10331167,8721,morris dancer
+8726,n09896170,8527,caricaturist
+8734,n09930876,8727,"clown, buffoon, goof, goofball, merry andrew"
+8739,n10649197,8733,starlet
+8745,n10603851,8735,sitar player
+8755,n09842528,8746,"bass, basso"
+8756,n10085869,8528,"fiance, groom-to-be"
+8757,n09991867,8528,"darling, favorite, favourite, pet, dearie, deary, ducky"
+8758,n10078131,8528,"fancier, enthusiast"
+8762,n09789566,8529,amputee
+8763,n10182190,8529,"homeless, homeless person"
+8764,n09899671,8529,"casualty, injured party"
+8769,n10317500,8768,"military policeman, MP"
+8772,n09862621,8771,bobby
+8775,n10333838,8771,"motorcycle cop, motorcycle policeman, speed cop"
+8778,n09659188,8533,"Kiliwa, Kiliwi"
+8779,n09650729,8533,Biloxi
+8780,n09652149,8533,Chickasaw
+8781,n09659039,8533,Kickapoo
+8783,n09641002,8536,white man
+8784,n09725653,8782,Omani
+8785,n09846469,8782,"Bedouin, Beduin"
+8786,n09750770,8782,Yemeni
+8787,n10486166,8538,protegee
+8789,n09684901,8539,swami
+8790,n09683757,8539,Buddhist
+8792,n10364198,8539,"novitiate, novice"
+8794,n10341573,8791,Muslimah
+8795,n10672371,8791,Sufi
+8796,n10332861,8793,mother
+8797,n10112129,8793,"monk, monastic"
+8798,n10602470,8793,Sister
+8800,n10508141,8542,ratepayer
+8816,n10034614,8546,drinker
+8818,n10034201,8546,"drinker, imbiber, toper, juicer"
+8820,n10037385,8818,"drunkard, drunk, rummy, sot, inebriate, wino"
+8822,n10282672,8547,"maid, maidservant, housemaid, amah"
+8824,n09815790,8547,"assistant, helper, help, supporter"
+8830,n09841188,8823,"bartender, barman, barkeep, barkeeper, mixologist"
+8831,n10644598,8823,"staff member, staffer"
+8834,n10583790,8823,settler
+8836,n10763620,8823,waitress
+8837,n10548537,8823,salesman
+8840,n10318293,8833,"mill-hand, factory worker"
+8846,n09821831,8824,"attendant, attender, tender"
+8847,n09934337,8824,cog
+8856,n09972458,8848,"cover girl, pin-up, lovely"
+8865,n10727171,8826,trawler
+8874,n10465831,8859,presbyter
+8880,n09934774,8862,coiffeur
+8891,n09941964,8888,"commanding officer, commandant, commander"
+8892,n10347446,8888,naval commander
+8900,n10093475,8899,"first sergeant, sergeant first class"
+8901,n10645017,8899,staff sergeant
+8904,n10263790,8895,line officer
+8908,n10296176,8902,"marshal, marshall"
+8912,n10259997,8903,lieutenant commander
+8913,n10510245,8903,rear admiral
+8914,n10622053,8889,soldier
+8916,n10690648,8914,"tanker, tank driver"
+8920,n10512372,8915,"recruit, military recruit"
+8921,n10802507,8915,"yard bird, yardbird"
+8922,n10753442,8550,villager
+8923,n09733793,8550,Tahitian
+8926,n09738400,8550,American
+8927,n09727826,8550,Polynesian
+8929,n09724533,8550,"New Zealander, Kiwi"
+8930,n09744834,8924,"North Carolinian, Tarheel"
+8931,n09743792,8924,"Minnesotan, Gopher"
+8932,n09744161,8924,"Nebraskan, Cornhusker"
+8933,n09742101,8924,Floridian
+8934,n09689435,8925,"Afghan, Afghanistani"
+8935,n09734450,8925,Tibetan
+8936,n09644152,8925,"Mongol, Mongolian"
+8937,n09750282,8925,Papuan
+8939,n09718811,8925,Jordanian
+8940,n09718217,8925,"Japanese, Nipponese"
+8941,n09712696,8925,"Malay, Malayan"
+8942,n09718936,8925,Korean
+8943,n10711766,8925,Timorese
+8944,n09694771,8925,Bornean
+8945,n09719794,8925,"Lao, Laotian"
+8946,n09714694,8925,"Iraqi, Iraki"
+8947,n09675922,8938,"Gujarati, Gujerati"
+8948,n09676247,8938,"Punjabi, Panjabi"
+8950,n09720256,8926,"Latin American, Latino"
+8951,n09725229,8926,North American
+8952,n09731571,8926,South American
+8953,n09691729,8949,Bahamian
+8954,n09693982,8949,Barbadian
+8955,n09712448,8949,Haitian
+8956,n09697401,8951,Central American
+8957,n09696585,8951,Canadian
+8958,n09722658,8956,Mexican
+8959,n09724656,8956,Nicaraguan
+8960,n09723067,8956,"Mexican-American, Mexicano"
+8961,n09694664,8952,Bolivian
+8962,n09712324,8952,Guyanese
+8963,n09689958,8928,Albanian
+8964,n09695979,8928,"Byelorussian, Belorussian, White Russian"
+8965,n10327987,8928,"Monegasque, Monacan"
+8966,n09688804,8928,Frank
+8967,n09730204,8928,"Scandinavian, Norse, Northman"
+8968,n09711435,8928,Laconian
+8969,n09713108,8928,"Netherlander, Dutchman, Hollander"
+8970,n09731343,8928,Slovene
+8971,n09717233,8928,Sabine
+8972,n09695620,8928,Bulgarian
+8973,n09728285,8928,"Romanian, Rumanian"
+8974,n09707289,8928,Lithuanian
+8975,n09701833,8928,Englishwoman
+8976,n09700964,8928,"Britisher, Briton, Brit"
+8977,n09750891,8928,"Yugoslav, Jugoslav, Yugoslavian, Jugoslavian"
+8979,n09708750,8928,Parisian
+8980,n09705784,8551,Eritrean
+8981,n09734185,8551,Tanzanian
+8982,n09752023,8551,Zulu
+8983,n09635534,8551,Black African
+8984,n09696456,8551,Cameroonian
+8985,n09732170,8551,Sudanese
+8986,n09730824,8551,Senegalese
+8987,n09719309,8551,Kenyan
+8988,n09734535,8551,Togolese
+8989,n09736945,8551,Ugandan
+8990,n09720842,8551,Liberian
+8991,n09692915,8551,Herero
+8992,n09751895,8551,Zimbabwean
+8993,n09724785,8551,Nigerian
+8994,n09747495,8551,Gambian
+8995,n09734639,8551,Tuareg
+8996,n09749386,8551,Guinean
+8997,n09705124,8551,Ethiopian
+8998,n09731436,8551,South African
+9005,n09913455,8554,cheerleader
+9008,n09505153,8554,spiritual leader
+9009,n10209082,8554,"instigator, initiator"
+9010,n10323634,8554,mistress
+9011,n10104064,8554,boss
+9012,n10001481,9000,"demagogue, demagog, rabble-rouser"
+9013,n10242328,9000,Labourite
+9017,n10005934,9016,deputy
+9018,n10578471,9016,senator
+9022,n10289462,9019,manageress
+9025,n09916348,9023,"chief executive officer, CEO, chief operating officer"
+9027,n10320863,9023,"minister, government minister"
+9028,n10572706,9021,Secretary of State
+9030,n10038409,9007,duchess
+9031,n10756148,9007,viscount
+9032,n09927451,9008,"clergyman, reverend, man of the cloth"
+9033,n10243664,9008,lama
+9034,n10502329,9008,rabbi
+9035,n09988493,9008,"Dalai Lama, Grand Lama"
+9036,n10373390,9032,officiant
+9037,n10470779,9032,priest
+9038,n09928136,9032,"cleric, churchman, divine, ecclesiastic"
+9039,n10750031,9037,vicar
+9040,n10081204,9037,"Father, Padre"
+9042,n10013811,9041,diocesan
+9043,n09894143,9041,cardinal
+9044,n10313239,9041,metropolitan
+9045,n10082997,8558,federalist
+9047,n09787765,8558,ambassador
+9048,n10485883,8558,protectionist
+9051,n09772930,8560,"adulteress, fornicatress, hussy, jade, loose woman, slut, strumpet, trollop"
+9052,n09633969,8560,"wrongdoer, offender"
+9053,n10195593,9052,"hypocrite, dissembler, dissimulator, phony, phoney, pretender"
+9055,n10607478,9052,skinhead
+9059,n10522035,8563,representative
+9066,n10524076,9059,resident commissioner
+9067,n10467395,9064,"President of the United States, United States President, President, Chief Executive"
+9072,n10675010,8564,sunbather
+9073,n09889941,8564,camper
+9077,n10116702,9074,futurist
+9078,n10258786,9074,licentiate
+9080,n09873348,8570,brawler
+9089,n10262445,9086,lightweight
+9091,n10098624,9082,flyweight
+9092,n10674713,9082,sumo wrestler
+9093,n09838621,9082,bantamweight
+9094,n10047459,8573,"egotist, egoist, swellhead"
+9096,n10740868,8573,"upstart, parvenu, nouveau-riche, arriviste"
+9097,n09872066,9094,"bragger, braggart, boaster, blowhard, line-shooter, vaunter"
+9098,n10070711,9094,"exhibitionist, show-off"
+9100,n10421016,8575,"Pharaoh, Pharaoh of Egypt"
+9102,n10588357,8575,"sheik, tribal sheik, sheikh, tribal sheikh, Arab chief"
+9112,n10583387,8579,"settler, colonist"
+9113,n10718131,8579,"tourist, tourer, holidaymaker"
+9115,n10147121,8579,gringo
+9122,n10178216,9108,"hitter, striker"
+9123,n10563403,9108,scrambler
+9132,n10084295,8582,"female child, girl, little girl"
+9133,n10787470,8582,"woman, adult female"
+9135,n10131151,8582,girl wonder
+9136,n09871681,9132,Boy Scout
+9137,n09981939,9132,Cub Scout
+9138,n10055410,9133,"enchantress, temptress, siren, Delilah, femme fatale"
+9139,n10243137,9133,lady
+9140,n10377021,9133,old woman
+9141,n10368528,9133,"nymph, houri"
+9142,n10025635,9133,donna
+9144,n10613996,9133,"smasher, stunner, knockout, beauty, ravisher, sweetheart, peach, lulu, looker, mantrap, dish"
+9145,n10472129,9133,"primigravida, gravida I"
+9146,n10598181,9133,signorina
+9147,n10129825,9133,"girl, miss, missy, young lady, young woman, fille"
+9148,n09847543,9133,"beldam, beldame"
+9149,n10173410,9133,heroine
+9150,n10780284,9133,"widow, widow woman"
+9151,n09889065,9133,call girl
+9152,n09832456,9133,baggage
+9154,n10117851,9147,gal
+9155,n09827363,9147,"baby, babe, sister"
+9156,n10247358,9147,"lass, lassie, young girl, jeune fille"
+9157,n10282482,9147,"maid, maiden"
+9159,n10375314,9153,old lady
+9168,n10236304,8585,"kin, kinsperson, family"
+9172,n10357613,9163,niece
+9173,n09823502,9163,"aunt, auntie, aunty"
+9175,n10602985,9163,"sister, sis"
+9176,n10145239,9163,"great-aunt, grandaunt"
+9177,n10267865,9175,little sister
+9180,n10102800,9164,"forefather, father, sire"
+9182,n10406391,9164,patriarch
+9183,n10300500,9179,mater
+9185,n10332385,9179,"mother, female parent"
+9186,n09988063,9184,"dad, dada, daddy, pa, papa, pappa, pop"
+9187,n10375402,9184,old man
+9190,n10145590,9181,great grandmother
+9193,n10142391,9189,"grandfather, gramps, granddad, grandad, granddaddy, grandpa"
+9194,n10146002,9165,"great-nephew, grandnephew"
+9195,n10267311,9165,little brother
+9197,n10092643,9170,"firstborn, eldest"
+9198,n09918248,9170,"child, kid"
+9200,n10141732,9196,granddaughter
+9201,n10145340,9196,great grandchild
+9205,n10135129,9204,godson
+9206,n10465451,9204,"premature baby, preterm baby, premature infant, preterm infant, preemie, premie"
+9207,n10353016,9204,"neonate, newborn, newborn infant, newborn baby"
+9910,n10768903,8547,washer
+9985,n10710913,8547,tiler
+10467,n09909660,8547,charcoal burner
+10926,n10146416,8914,Green Beret
